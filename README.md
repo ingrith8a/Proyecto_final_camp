@@ -1,3 +1,4 @@
+Autor/a: <Ingrith Marcela Ochoa Bernal>
 Hola 
 En este documento encontrara el paso a paso para ejecutar de manera satisfactoria el trabajo realizado como proyecto final
 
